@@ -1,2 +1,2 @@
 # laravel-extras
-A Package for Laravel Extra Features
+A Package for Laravel Extended Features
